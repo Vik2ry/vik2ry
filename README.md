@@ -1,6 +1,7 @@
 # Hi there, I'm Olusegun Banji! 👋
 
-![Banner Image][(my_banner_image_url_here)](https://github.com/user-attachments/assets/a776d152-1641-4e47-bce9-18efdf6c37e6)
+![ChatGPT Image May 10, 2025, 04_52_24 PM](https://github.com/user-attachments/assets/4dd55214-3548-402c-bc08-7c2e9001db63)
+
  <!-- You can upload a banner image showing your portfolio brand or coding background -->
 
 ## About Me 🚀
