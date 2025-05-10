@@ -1,6 +1,7 @@
 # Hi there, I'm Olusegun Banji! 👋
 
-![Banner Image][(my_banner_image_url_here)](https://i.imgur.com/N8pGF1H.png) <!-- You can upload a banner image showing your portfolio brand or coding background -->
+![Banner Image][(my_banner_image_url_here)](https://github.com/user-attachments/assets/a776d152-1641-4e47-bce9-18efdf6c37e6)
+ <!-- You can upload a banner image showing your portfolio brand or coding background -->
 
 ## About Me 🚀
 
