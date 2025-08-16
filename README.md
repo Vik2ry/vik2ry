@@ -186,7 +186,7 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="50%">
+      <td align="center" width="50%" p="20px">
         <img src="https://img.shields.io/badge/Web%20Development-111827?style=for-the-badge&logo=react&logoColor=38BDF8" />
         <h3>🌐 Full-Stack Development</h3>
         <p>
@@ -196,8 +196,9 @@
           <b>• Microservices Architecture</b><br/>
         </p>
       </td>
-    
-      <td align="center" width="50%">
+    </tr>
+  <tr>
+    <td align="center" width="50%" p="20px">
         <img src="https://img.shields.io/badge/E--commerce-111827?style=for-the-badge&logo=shopify&logoColor=38BDF8" />
         <h3>🛒 CMS Websites</h3>
         <p>
