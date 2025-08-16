@@ -196,8 +196,7 @@
           <b>• Microservices Architecture</b><br/>
         </p>
       </td>
-    </tr>
-    <tr>
+    
       <td align="center" width="50%">
         <img src="https://img.shields.io/badge/E--commerce-111827?style=for-the-badge&logo=shopify&logoColor=38BDF8" />
         <h3>🛒 CMS Websites</h3>
