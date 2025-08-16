@@ -186,22 +186,23 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="50%" style="margin: 20px 0;">
+      <!-- Box 1 -->
+      <td align="center" width="50%" style="padding: 20px;">
         <img src="https://img.shields.io/badge/Web%20Development-111827?style=for-the-badge&logo=react&logoColor=38BDF8" />
         <h3>🌐 Full-Stack Development</h3>
-        <p>
+        <p align="left">
           <b>• MERN Stack Applications</b><br/>
           <b>• RESTful & GraphQL APIs</b><br/>
           <b>• Real-time Applications</b><br/>
           <b>• Microservices Architecture</b><br/>
         </p>
       </td>
-    </tr>
-  <tr>
-    <td align="center" width="50%" style="margin: 20px 0;">
+
+      <!-- Box 2 -->
+      <td align="center" width="50%" style="padding: 20px;">
         <img src="https://img.shields.io/badge/E--commerce-111827?style=for-the-badge&logo=shopify&logoColor=38BDF8" />
         <h3>🛒 CMS Websites</h3>
-        <p>
+        <p align="left">
           <b>• Sanity CMS</b><br/>
           <b>• WooCommerce Integration</b><br/>
           <b>• Payment Gateways</b><br/>
