@@ -1,4 +1,4 @@
-<div align="center">
+<img width="1344" height="619" alt="image" src="https://github.com/user-attachments/assets/e1a8ac23-753d-4e68-ae18-5bfd66430e2e" /><div align="center">
 
 <!-- Animated Wave Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,2,12,30&height=120&section=header&text=Elite%20Developer&fontSize=35&fontColor=fff&animation=fadeIn&fontAlignY=30" width="100%" />
@@ -257,66 +257,6 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
----
-
-## Featured Projects 💻
-
-### [Apologetics.ai](https://apologetics.ai)
-
-![Project Screenshot]![image](https://github.com/user-attachments/assets/9d712c1c-8a7b-418b-b96c-a8962e0b035d)
- <!-- Upload an image showing the interface or architecture -->
-
-**Apologetics.ai** is an AI-powered chatbot designed to answer faith-based and philosophical questions, using OpenAI and Hugging Face. I contribute to its development as part of a global team, helping shape respectful, meaningful conversations through LLMs and natural language understanding.
-
----
-
-### [Indigitous Search Engine Simulation](https://v0-indigitoussearch.vercel.app)
-
-![Project Screenshot]![Screenshot 2025-05-10 153641](https://github.com/user-attachments/assets/8bd58a2e-f8ee-4602-af11-a66938d46e72)
-
-
-Created a full search experience for a movie project — simulating a Google-like search engine without using external APIs. Custom-built frontend, backend, and search logic delivered a believable digital experience for screen production.
-
----
-
-### [NGO Platform – KDI](https://v0-ngo-site.vercel.app)
-
-![Project Screenshot]![image](https://github.com/user-attachments/assets/1dde99ca-215e-4e6b-8d5e-098317b8e447)
-
-
-A platform for Koinonia Divine Initiative, designed to share mission updates, community programs, and donation campaigns. Built with Next.js and Tailwind for speed and accessibility.
-
----
-
-### [Personal Portfolio](https://olusegun-banji-portfolio.vercel.app)
-
-![Project Screenshot]![1](https://github.com/user-attachments/assets/a5e60d66-88fa-4609-a6f5-ff5794f7173a)
-
-
-A responsive, modern portfolio showing off my full-stack, AI, and community projects — powered by Vercel, designed in TailwindCSS, and regularly updated.
-
----
-
-### [WhatsApp Web Clone](https://whatsapp-v2-dun.vercel.app)
-
-Built a real-time chat app with Firebase and React to demonstrate scalable, responsive design in frontend-heavy use cases.
-
----
-
-### [Medium Clone](https://sanitymedium4-l.vercel.app)
-
-A blogging platform with user login, post creation, and Markdown support — inspired by Medium, built for learning full-stack app development end-to-end.
-
----
-
-## Get in Touch 📬
-
-- 🌐 [Portfolio](https://olusegun-banji-portfolio.vercel.app)
-- 💼 [LinkedIn](https://www.linkedin.com/in/olusegun-banji/)
-- 🐦 [Twitter](https://twitter.com/banjisegun_) *(or update with your current Twitter handle)*
-- 📫 **Email:** segunbanji@gmail.com
-
----
 
 <!-- Footer -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -336,6 +276,7 @@ A blogging platform with user login, post creation, and Markdown support — ins
   </h2>
   
   <h3>Let's build something extraordinary together! 🚀</h3>
+  <h3>![Check out my portfolio 🚀](https://olusegunbanji.vercel.app/)</h3>
   
   <br/>
   
