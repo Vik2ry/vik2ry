@@ -2,7 +2,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,2,12,30&height=120&section=header&text=Elite%20Developer&fontSize=35&fontColor=fff&animation=fadeIn&fontAlignY=30" width="100%" />
 
 <!-- Elite Developer Badge -->
-<img src="https://img.shields.io/badge/🔥%20ELITE%20DEVELOPER%20🔥-111827?style=for-the-badge&logo=statuspage&logoColor=38BDF8" width="350" />
+<div align="center" style="margin: 20px 0;">
+  <img src="https://img.shields.io/badge/🔥%20ELITE%20DEVELOPER%20🔥-111827?style=for-the-badge&logo=statuspage&logoColor=38BDF8" width="350" />
+</div>
 
 <br/><br/>
 
@@ -239,7 +241,7 @@
   <h3>
     <img src="https://img.shields.io/badge/💼%20Scarce2plenty-008000?style=flat-square" />
     Building Scalable & Efficient Software Solutions
-    <img src="https://img.shields.io/badge/🚀%20Since%202024-10B981?style=flat-square" />
+    <img src="https://img.shields.io/badge/🚀%20Since%202025-10B981?style=flat-square" />
   </h3>
 </div>
 
