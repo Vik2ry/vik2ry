@@ -1,5 +1,3 @@
-<img width="1344" height="619" alt="image" src="https://github.com/user-attachments/assets/e1a8ac23-753d-4e68-ae18-5bfd66430e2e" /><div align="center">
-
 <!-- Animated Wave Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,2,12,30&height=120&section=header&text=Elite%20Developer&fontSize=35&fontColor=fff&animation=fadeIn&fontAlignY=30" width="100%" />
 
