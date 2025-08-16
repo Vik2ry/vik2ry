@@ -237,7 +237,7 @@
 
 <div align="center">
   <h3>
-    <img src="https://img.shields.io/badge/💼%20CODCrafters-F87171?style=flat-square" />
+    <img src="https://img.shields.io/badge/💼%20Scarce2plenty-008000?style=flat-square" />
     Building Scalable & Efficient Software Solutions
     <img src="https://img.shields.io/badge/🚀%20Since%202024-10B981?style=flat-square" />
   </h3>
