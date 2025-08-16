@@ -181,7 +181,7 @@
 
 <h2 align="center"> 🚀 What I Do Best </h2>
 
-<div align="center" style="display: flex; justify-content: center;">
+<div style="display: flex; justify-content: center;">
   <table>
     <tr style="padding: 20px 0;">
       <td align="center" width="50%" style="margin: 20px 0;">
