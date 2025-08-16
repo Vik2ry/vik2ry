@@ -195,8 +195,8 @@
         </p>
       </td>
     </tr>
-    <br/>
-
+  </table>
+  <table>
     <tr style="padding: 20px 0;">
       <td align="center" width="50%" style="margin: 20px 0;">
         <img src="https://img.shields.io/badge/E--commerce-111827?style=for-the-badge&logo=shopify&logoColor=38BDF8" />
