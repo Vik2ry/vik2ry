@@ -21,7 +21,7 @@
 <br/>
 
 <!-- GitHub Stats Badges -->
-<div style="margin: 20px 0;">
+<div align="center" style="margin: 20px 0;">
   <a href="https://linkedin.com/in/olusegun-banji">
     <img src="https://img.shields.io/badge/LINKEDIN-7K+-10B981?style=for-the-badge&labelColor=111827&logo=linkedin" />
   </a>
