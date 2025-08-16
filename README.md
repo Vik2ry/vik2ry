@@ -195,9 +195,7 @@
         </p>
       </td>
     </tr>
-
-    <!-- Spacer row -->
-    <tr><td><br/></td></tr>
+    <br/>
 
     <tr style="padding: 20px 0;">
       <td align="center" width="50%" style="margin: 20px 0;">
