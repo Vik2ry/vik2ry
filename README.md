@@ -181,33 +181,38 @@
 
 <h2 align="center"> 🚀 What I Do Best </h2>
 
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-top: 20px;">
+<div align="center">
+  <table>
+    <tr style="padding: 20px 0;">
+      <td align="center" width="50%" style="margin: 20px 0;">
+        <img src="https://img.shields.io/badge/Web%20Development-111827?style=for-the-badge&logo=react&logoColor=38BDF8" />
+        <h3>🌐 Full-Stack Development</h3>
+        <p>
+          <b>• MERN Stack Applications</b><br/>
+          <b>• RESTful & GraphQL APIs</b><br/>
+          <b>• Real-time Applications</b><br/>
+          <b>• Microservices Architecture</b><br/>
+        </p>
+      </td>
+    </tr>
 
-  <!-- Box 1 -->
-  <div style="text-align: center; width: 300px; padding: 20px; border: 1px solid #ccc; border-radius: 8px;">
-    <img src="https://img.shields.io/badge/Web%20Development-111827?style=for-the-badge&logo=react&logoColor=38BDF8" />
-    <h3>🌐 Full-Stack Development</h3>
-    <p align="left">
-      <b>• MERN Stack Applications</b><br/>
-      <b>• RESTful & GraphQL APIs</b><br/>
-      <b>• Real-time Applications</b><br/>
-      <b>• Microservices Architecture</b><br/>
-    </p>
-  </div>
+    <!-- Spacer row -->
+    <tr><td><br/></td></tr>
 
-  <!-- Box 2 -->
-  <div style="text-align: center; width: 300px; padding: 20px; border: 1px solid #ccc; border-radius: 8px;">
-    <img src="https://img.shields.io/badge/E--commerce-111827?style=for-the-badge&logo=shopify&logoColor=38BDF8" />
-    <h3>🛒 CMS Websites</h3>
-    <p align="left">
-      <b>• Sanity CMS</b><br/>
-      <b>• WooCommerce Integration</b><br/>
-      <b>• Payment Gateways</b><br/>
-      <b>• Custom Storefronts</b><br/>
-      <b>• Inventory Management</b>
-    </p>
-  </div>
-
+    <tr style="padding: 20px 0;">
+      <td align="center" width="50%" style="margin: 20px 0;">
+        <img src="https://img.shields.io/badge/E--commerce-111827?style=for-the-badge&logo=shopify&logoColor=38BDF8" />
+        <h3>🛒 CMS Websites</h3>
+        <p>
+          <b>• Sanity CMS</b><br/>
+          <b>• WooCommerce Integration</b><br/>
+          <b>• Payment Gateways</b><br/>
+          <b>• Custom Storefronts</b><br/>
+          <b>• Inventory Management</b>
+        </p>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <!-- Connect Section -->
