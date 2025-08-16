@@ -176,43 +176,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=vik2ry&theme=algolia&no-frame=true&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies" />
 </div>
 
-<!-- What I Do Section -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<h2 align="center">
-  🚀 What I Do Best
-</h2>
-
-<div align="center">
-  <table>
-    <tr>
-      <!-- Box 1 -->
-      <td width="50%" style="padding: 20px; text-align: center; vertical-align: top;">
-        <img src="https://img.shields.io/badge/Web%20Development-111827?style=for-the-badge&logo=react&logoColor=38BDF8" />
-        <h3>🌐 Full-Stack Development</h3>
-        <div style="text-align: left;">
-          <b>• MERN Stack Applications</b><br/>
-          <b>• RESTful & GraphQL APIs</b><br/>
-          <b>• Real-time Applications</b><br/>
-          <b>• Microservices Architecture</b>
-        </div>
-      </td>
-
-      <!-- Box 2 -->
-      <td width="50%" style="padding: 20px; text-align: center; vertical-align: top;">
-        <img src="https://img.shields.io/badge/E--commerce-111827?style=for-the-badge&logo=shopify&logoColor=38BDF8" />
-        <h3>🛒 CMS Websites</h3>
-        <div style="text-align: left;">
-          <b>• Sanity CMS</b><br/>
-          <b>• WooCommerce Integration</b><br/>
-          <b>• Payment Gateways</b><br/>
-          <b>• Custom Storefronts</b><br/>
-          <b>• Inventory Management</b>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
+<!-- What I Do Section --> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"> <h2 align="center"> 🚀 What I Do Best </h2> <div align="center"> <table> <tr> <td align="center" width="50%" style="margin: 20px 0;"> <img src="https://img.shields.io/badge/Web%20Development-111827?style=for-the-badge&logo=react&logoColor=38BDF8" /> <h3>🌐 Full-Stack Development</h3> <p> <b>• MERN Stack Applications</b><br/> <b>• RESTful & GraphQL APIs</b><br/> <b>• Real-time Applications</b><br/> <b>• Microservices Architecture</b><br/> </p> </td> </tr> <tr> <td align="center" width="50%" style="margin: 20px 0;"> <img src="https://img.shields.io/badge/E--commerce-111827?style=for-the-badge&logo=shopify&logoColor=38BDF8" /> <h3>🛒 CMS Websites</h3> <p> <b>• Sanity CMS</b><br/> <b>• WooCommerce Integration</b><br/> <b>• Payment Gateways</b><br/> <b>• Custom Storefronts</b><br/> <b>• Inventory Management</b> </p> </td> </tr> </table> </div>
 
 <!-- Connect Section -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
