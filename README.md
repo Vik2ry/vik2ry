@@ -51,7 +51,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/🚀%%20Premium%20Code%20Solutions%20Since%202021%20🚀-111827?style=for-the-badge" width="500" />
+  <img src="https://img.shields.io/badge/Premium%20Code%20Solutions%20Since%202021-111827?style=for-the-badge" width="500" />
 </div>
 
 <br/>
